@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Sample ERC721 Project
 
 This project demonstrates a basic ERC721. 
 
